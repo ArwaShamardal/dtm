@@ -1,0 +1,1 @@
+{"position": [0, 0, 0], "scale": [1, 1, 1], "rotation": [0, 0, 90], "shape": [9.14, 9.06, 1], "image_path": "static/uploads/motor.jpeg", "origin_path": "Data/0/", "data_path": "Data/0/"}
